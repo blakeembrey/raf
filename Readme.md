@@ -1,6 +1,8 @@
 
 # raf
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/raf.svg)](https://greenkeeper.io/)
+
   request animation frame
 
 ## Installation
